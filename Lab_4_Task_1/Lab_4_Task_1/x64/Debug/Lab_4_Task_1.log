@@ -1,0 +1,7 @@
+﻿  MunchkinPlayer.cpp
+  Player.cpp
+  Kod Üretiliyor...
+C:\Users\Burak\source\repos\Lab_4_Task_1\Lab_4_Task_1\Player.cpp(68,1): warning C4715: 'player::debugPointer': tüm denetim yolları değer döndürmez
+C:\Users\Burak\source\repos\Lab_4_Task_1\Lab_4_Task_1\Player.cpp(59,1): warning C4715: 'player::debugReference': tüm denetim yolları değer döndürmez
+MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
+C:\Users\Burak\source\repos\Lab_4_Task_1\x64\Debug\Lab_4_Task_1.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar

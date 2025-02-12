@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\mother.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\mother.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\School.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA5C0C-9DB7-4D98-AB13-4DC4339E6825}|Lab_6_Task_1\\Lab_6_Task_1.vcxproj|solutionrelative:Lab_6_Task_1\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\main.cpp",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\main.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\main.cpp",
+              "RelativeToolTip": "Lab_6_Task_1\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T13:29:31.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "School.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.cpp",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\School.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.cpp",
+              "RelativeToolTip": "Lab_6_Task_1\\School.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T18:30:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "School.h",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.h",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\School.h",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\School.h",
+              "RelativeToolTip": "Lab_6_Task_1\\School.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T12:31:11.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mother.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.cpp",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\mother.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.cpp",
+              "RelativeToolTip": "Lab_6_Task_1\\mother.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T10:56:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mother.h",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.h",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\mother.h",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\mother.h",
+              "RelativeToolTip": "Lab_6_Task_1\\mother.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T10:54:52.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "child.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.cpp",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\child.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.cpp",
+              "RelativeToolTip": "Lab_6_Task_1\\child.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T10:56:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "child.h",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.h",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\child.h",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Lab_6_Task_1\\Lab_6_Task_1\\child.h",
+              "RelativeToolTip": "Lab_6_Task_1\\child.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T10:54:41.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

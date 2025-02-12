@@ -1,0 +1,6 @@
+﻿  Task1.cpp
+C:\Users\Burak\source\repos\Lab_2_Task_1\Lab_2_Task_1\Task1.cpp(10,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Lab_2_Task_1\Lab_2_Task_1\Task1.cpp(12,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Lab_2_Task_1\Lab_2_Task_1\Task1.cpp(14,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Lab_2_Task_1\Lab_2_Task_1\Task1.cpp(16,32): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Lab_2_Task_1.vcxproj -> C:\Users\Burak\source\repos\Lab_2_Task_1\x64\Debug\Lab_2_Task_1.exe

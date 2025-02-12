@@ -1,0 +1,6 @@
+﻿  main.cpp
+  player.cpp
+  Kod Üretiliyor...
+C:\Users\Burak\source\repos\Lab_3_Task_1\Lab_3_Task_1\player.cpp(68,1): warning C4715: 'player::debugPointer': tüm denetim yolları değer döndürmez
+C:\Users\Burak\source\repos\Lab_3_Task_1\Lab_3_Task_1\player.cpp(59,1): warning C4715: 'player::debugReference': tüm denetim yolları değer döndürmez
+  Lab_3_Task_1.vcxproj -> C:\Users\Burak\source\repos\Lab_3_Task_1\x64\Debug\Lab_3_Task_1.exe
