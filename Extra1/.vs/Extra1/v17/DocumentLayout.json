@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Burak\\source\\repos\\Extra1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|solutionrelative:Extra1\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|solutionrelative:Extra1\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B24F48-00A4-4BF8-8DF2-278A8EE91609}|Extra1\\Extra1.vcxproj|solutionrelative:Extra1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "Extra1\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.cpp",
+              "RelativeToolTip": "Extra1\\Polynomial.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowKsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T20:34:12.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.h",
+              "RelativeDocumentMoniker": "Extra1\\Polynomial.h",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Polynomial.h",
+              "RelativeToolTip": "Extra1\\Polynomial.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T20:33:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Main.cpp",
+              "RelativeDocumentMoniker": "Extra1\\Main.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\Extra1\\Extra1\\Main.cpp",
+              "RelativeToolTip": "Extra1\\Main.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T20:33:52.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

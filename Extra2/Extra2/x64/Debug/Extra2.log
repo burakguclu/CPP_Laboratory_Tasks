@@ -1,0 +1,14 @@
+﻿  Polynomial.cpp
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(6,30): warning C4305: 'başlatılıyor': 'double' iken '_Ty' olarak kesildi
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(6,30): warning C4305:         with
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(6,30): warning C4305:         [
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(6,30): warning C4305:             _Ty=float
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(6,30): warning C4305:         ]
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(140,41): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(143,37): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(153,18): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(153,35): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(157,13): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(159,21): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Burak\source\repos\Extra2\Extra2\Polynomial.cpp(164,44): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Extra2.vcxproj -> C:\Users\Burak\source\repos\Extra2\x64\Debug\Extra2.exe
